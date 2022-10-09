@@ -81,6 +81,12 @@ object-fit: cover;
 
 }
 
+/*tips page* - make more space bet card and contact form*/
+.makespace{
+margin-bottom: 100px;
+}
+
+
 /*media queries for ipad*/
 @media screen and (max-width: 850px) {
     .bigHero{ 
